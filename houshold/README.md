@@ -1,4 +1,4 @@
-# Household Project
+# HomeHarmony
 
 ## Overview
 The Household Project is designed to help manage and organize household tasks, expenses, and other related activities. It provides tools and features to streamline daily household operations, making it easier for families or roommates to collaborate and stay organized.
