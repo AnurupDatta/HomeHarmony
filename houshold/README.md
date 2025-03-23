@@ -3,6 +3,11 @@
 ## Overview
 The Household Project is designed to help manage and organize household tasks, expenses, and other related activities. It provides tools and features to streamline daily household operations, making it easier for families or roommates to collaborate and stay organized.
 ![WhatsApp Image 2025-03-23 at 17 24 15_f46bef85](https://github.com/user-attachments/assets/5f3da631-fa40-45eb-b94b-af5b1b8eed6b)
+![WhatsApp Image 2025-03-23 at 17 24 16_2fdf4d17](https://github.com/user-attachments/assets/bef2be78-0bfc-468e-bb57-d1ac7cf8a5f5)
+![WhatsApp Image 2025-03-23 at 17 24 16_928462a6](https://github.com/user-attachments/assets/bfa0b690-5b20-466b-ae77-d989347ff393)
+![WhatsApp Image 2025-03-23 at 17 24 18_51c2e032](https://github.com/user-attachments/assets/bf6fd5c7-b08c-4cbe-bc8e-0588aac20b9e)
+
+
 
 
 ## Features
